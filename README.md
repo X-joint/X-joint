@@ -7,6 +7,13 @@
 ### 🎯 About Me
 大家好！我是Roy，世界模型招聘HR实习生，世界模型研发岗招聘中。欢迎大家跟我聊聊~
 
+### 📬 Contact
+
+---
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/X-joint)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roy-l-896757323/)
+[![小红书](https://img.shields.io/badge/-小红书-FF2442?style=flat&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/64c122470000000014039c63)
+
 ---
 
 ### 🏢 My Team — Manifold AI（流形空间）
@@ -19,13 +26,6 @@ Manifold AI 在资本认可上，成立10个月完成来自头部VC和华为的�
 
 > 🌐 [官网](https://manifoldai.cn/) · 📢 [微信公众号](https://mp.weixin.qq.com/s/WW4fOX6CmmbVWssxch_wMA)
 
----
-
-### 📬 Contact
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/X-joint)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roy-l-896757323/)
-[![小红书](https://img.shields.io/badge/-小红书-FF2442?style=flat&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/64c122470000000014039c63)
 
 ---
 
