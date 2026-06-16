@@ -6,9 +6,7 @@
 
 ### 🎯 About Me
 大家好！我是Roy，世界模型招聘HR实习生，世界模型研发岗招聘中。欢迎大家跟我聊聊~
-
----
-### 📬 Contact
+📬 Contact
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/X-joint)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roy-l-896757323/)
