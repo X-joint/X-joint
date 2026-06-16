@@ -11,7 +11,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/X-joint)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roy-l-896757323/)
-[![Rednote](https://img.shields.io/badge/-小红书-FF2442?style=flat&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/64c122470000000014039c63)
+[![Rednote](https://img.shields.io/badge/-Rednote-FF2442?style=flat&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/64c122470000000014039c63)
 
 ---
 
