@@ -7,6 +7,7 @@
 ### 🎯 About Me
 大家好！我是Roy，世界模型招聘HR实习生，世界模型研发岗招聘中。欢迎大家跟我聊聊~
 
+---
 ### 📬 Contact
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/X-joint)
@@ -24,7 +25,6 @@ Manifold AI 专注研发新一代世界模型、构建具有通用理解和交�
 Manifold AI 在资本认可上，成立10个月完成来自头部VC和华为的五轮数亿元投资；学术成果上，获NeurIPS、ACM MM多项会录用、发布了业内首个物理信息可控的具身世界模型和首个无人机世界模型；研发成果上，自研的WorldScape具备单图生成可交互空间的能力，在生成质量、时空一致性、实时性等方面全面对标国外的一线世界模型。
 
 > 🌐 [官网](https://manifoldai.cn/) · 📢 [微信公众号](https://mp.weixin.qq.com/s/WW4fOX6CmmbVWssxch_wMA)
-
 
 ---
 
