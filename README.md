@@ -6,6 +6,7 @@
 
 ### 🎯 About Me
 大家好！我是Roy，目前是世界模型明星初创公司招聘HR实习生，算法研发岗招聘中。欢迎大家跟我聊聊~
+我对WorldModel/LLM/Quant都感兴趣
 
 📬 Contact
 
