@@ -1,6 +1,7 @@
 ![Cover](https://autoglm-agent.aminer.cn/auto_fly/aa1f91af-8022-416f-bf26-5a4320f9b077/github-banner.png)
 
-### 👋 Welcome to my space~                                                                            ![](https://komarev.com/ghpvc/?username=X-joint&color=blue)
+### 👋 Welcome to my space~                                                                           
+![](https://komarev.com/ghpvc/?username=X-joint&color=blue)
 
 ---
 
