@@ -6,8 +6,14 @@
 ---
 
 ### 🎯 About Me
-大家好！我是Roy，目前是阶跃星辰招聘HR，数据采集开发工程师、云原生研发工程师、数据平台架构师、大模型强化学习/训练框架/推理优化工程师等岗位招聘中。
+大家好！我是Roy，目前是阶跃星辰招聘HR，以下岗位正在热招中：
 
+1. [数据采集开发工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/ba12e4cb-63b2-4121-9fa2-bbb8eb57c910)
+2. [云原生研发工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/d23793a6-d6eb-4413-89c7-198e66a552dc)
+3. [数据平台架构师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/ea4c8d5a-20ce-49d1-a953-cead74bb14d9)
+4. [大模型强化学习系统工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/49406930-08a6-4c25-b05e-95e1b047dd33)
+5. [大模型训练框架工程师（预训练方向）](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/648d0d05-dd6b-4f3c-bc18-0ab36a543556)
+6. [大模型推理优化系统工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/8d7d14f2-5efe-47ef-8545-107cc835b5ce)
 ---
 
 ### 🏢 My Team — 阶跃星辰
