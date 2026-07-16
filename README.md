@@ -6,7 +6,7 @@
 ---
 
 ### 🎯 About Me
-大家好！我是Roy，目前是阶跃星辰招聘HR，以下岗位正在热招中：
+大家好！我是Roy，目前是阶跃星辰招聘HR，支持算法工程团队，以下岗位正在热招中：
 
 1. [数据采集开发工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/ba12e4cb-63b2-4121-9fa2-bbb8eb57c910)
 2. [云原生研发工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/d23793a6-d6eb-4413-89c7-198e66a552dc)
