@@ -20,6 +20,13 @@
 
 阶跃星辰致力于AGI技术研发，拥有自研千亿级参数基座模型，在算力规模和算法创新上持续投入。基础设施团队承担着为Agent业务提供安全、高效运行环境的底座责任，欢迎志同道合的工程师加入。
 
+[阶跃星辰StepStar顶尖人才专项全球启动！](https://app.mokahr.com/campus-recruitment/step/141903?recommendCode=NTAsqvg#/)
+
+如果你相信，AGI是正在发生的事；
+如果你不满足于跟着跑，想参与决定AI怎么真正落地；
+欢迎你加入StepStar，
+智能阶跃，十倍每个人的可能。
+
 ---
 
 ### 📬 Contact
