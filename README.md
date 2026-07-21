@@ -47,5 +47,5 @@
   <img src="https://autoglm-agent.aminer.cn/auto_fly/0c9d50d1-579a-4b7d-be90-9367976a9829/kimi-custom.png" width="38" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/qwen-color.png" width="38" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openclaw-color.png" width="38" />
-  <img src="https://autoglm-agent.aminer.cn/auto_fly/a5bb7d3d-570f-4658-b98e-34745103629e/stepfun-icon.png" width="38" />
+  <img src="https://autoglm-agent.aminer.cn/auto_fly/54cf0347-801f-467b-bd87-a2e83c004b77/StepFun_Logo_.png" width="38" />
 </p>
