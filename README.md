@@ -6,15 +6,15 @@
 ---
 
 ### 🎯 About Me
-大家好！我是Roy，目前是阶跃星辰招聘HR，支持算法工程团队，以下是8月热招岗位：
+大家好！我是Roy，目前是阶跃星辰招聘HR，支持算法工程团队，以下是9月热招岗位：
 
 工作地点：北京/上海
 1. [云原生研发工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/d23793a6-d6eb-4413-89c7-198e66a552dc)
 2. [大模型后训练系统工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/6e5fc4bf-1a6d-496a-b7c5-ab966b0e9a75)
-3. [大模型强化学习系统工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/49406930-08a6-4c25-b05e-95e1b047dd33)
-4. [大模型训练框架工程师（预训练方向）](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/648d0d05-dd6b-4f3c-bc18-0ab36a543556)
-5. [大模型推理优化系统工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/8d7d14f2-5efe-47ef-8545-107cc835b5ce)
-6. [高性能网络工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/7bedd341-0a78-4632-8085-b9c6c75d5142)
+3. [大模型训练优化工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/648d0d05-dd6b-4f3c-bc18-0ab36a543556)
+4. [大模型推理优化系统工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/8d7d14f2-5efe-47ef-8545-107cc835b5ce)
+5. [高性能网络工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/7bedd341-0a78-4632-8085-b9c6c75d5142)
+PS：训推，高性能网络等岗位（社招/校招/实习均可投递）
 ---
 
 ### 🏢 My Team — 阶跃星辰
