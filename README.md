@@ -14,6 +14,7 @@
 3. [大模型训练优化工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/648d0d05-dd6b-4f3c-bc18-0ab36a543556)
 4. [大模型推理优化系统工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/8d7d14f2-5efe-47ef-8545-107cc835b5ce)
 5. [高性能网络工程师](https://app.mokahr.com/recommendation-recruitment/step/94906?recommendCode=NTAsqvg#/job/7bedd341-0a78-4632-8085-b9c6c75d5142)
+
 PS：训推，高性能网络等岗位（社招/校招/实习均可投递）
 ---
 
