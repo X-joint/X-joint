@@ -1,4 +1,4 @@
-![Cover](https://autoglm-agent.aminer.cn/auto_fly/aa1f91af-8022-416f-bf26-5a4320f9b077/github-banner.png)
+![Cover](./assets/github-banner.png)
 
 ### 👋 Welcome to my space~                                                                           
 ![](https://komarev.com/ghpvc/?username=X-joint&color=blue)
@@ -45,9 +45,9 @@ PS：训推，高性能网络等岗位（社招/校招/实习均可投递）
 <p>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/deepseek-color.png" width="38" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/gemini-color.png" width="38" />
-  <img src="https://autoglm-agent.aminer.cn/auto_fly/dfc51e3b-9e69-4c0d-b39b-b9771ea0e621/openai-custom.png" width="38" />
-  <img src="https://autoglm-agent.aminer.cn/auto_fly/0c9d50d1-579a-4b7d-be90-9367976a9829/kimi-custom.png" width="38" />
+  <img src="./assets/openai-custom.png" width="38" />
+  <img src="./assets/kimi-custom.png" width="38" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/qwen-color.png" width="38" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openclaw-color.png" width="38" />
-  <img src="https://autoglm-agent.aminer.cn/auto_fly/54cf0347-801f-467b-bd87-a2e83c004b77/StepFun_Logo_.png" width="38" />
+  <img src="./assets/stepfun-logo.png" width="38" />
 </p>
